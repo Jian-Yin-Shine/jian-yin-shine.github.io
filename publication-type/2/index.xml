@@ -13,11 +13,35 @@
     </image>
     
     <item>
-      <title>Visual-friendly Aesthetic QR Code Generation using Image Style Transfer</title>
-      <link>/publication/3_underreview_qr/</link>
+      <title>MEC-Based Dynamic Controller Placement in SD-IoV: A Deep Reinforcement Learning Approach</title>
+      <link>/publication/2_SDN_IoV_MADQN/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/3_underreview_qr/</guid>
+      <guid>/publication/2_SDN_IoV_MADQN/</guid>
       <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+
+    <item>
+      <title>Intelligent delay-aware partial computing task offloading for multi-user industrial internet of things through edge computing</title>
+      <link>/publication/1_ddpg_for_mec/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/1_ddpg_for_mec/</guid>
+      <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
