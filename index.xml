@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Yin&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jian Yin&#39;s Homepage</title>
@@ -14,6 +14,14 @@
     
 
     
+    <item>
+      <title>E2E Hybrid Computation Offloading for Complex MEC System</title>
+      <link>/publication/3_e2e_hybrid_computation_offloading/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/3_e2e_hybrid_computation_offloading/</guid>
+      <description>IEEE Transactions on Mobile Computing, vol. 25, no. 2, pp. 2561-2576, 2026</description>
+    </item>
+
     <item>
       <title>MEC-Based Dynamic Controller Placement in SD-IoV: A Deep Reinforcement Learning Approach</title>
       <link>/publication/2_SDN_IoV_MADQN/</link>
